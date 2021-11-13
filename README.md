@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PrinceHatem
+- 👀 I’m interested in motorsport stragety and simulations, blockchain and game development.
+- 🌱 I’m currently working on Java, Python, and MATLAB
+- 📫 You can reach me on linkedin at https://linkedin.com/in/hatemalabsi
