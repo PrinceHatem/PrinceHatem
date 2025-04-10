@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hatemabsi
 - 👀 I’m interested in customer experience automation, vehicle dynamics and innovation!
-- 🌱 I’m currently working on Java, Python, and MATLAB
+- 🌱 I’m currently working on Java, JavaScript, HTML, Python, and MATLAB
 - 📫 You can reach me on linkedin at https://linkedin.com/in/hatemalabsi
