@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&reversal=false" />
 </div>
 
 <h3 align="center">
@@ -110,3 +110,7 @@
 ---
 
 <p align="center"><i>Last updated: 29 May 2025</i></p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&reversal=true&section=footer" />
+</div>
