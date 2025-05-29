@@ -19,6 +19,8 @@
   </a>
 </p>
 
+[![Spotify](https://novatorem-hatemabsi.vercel.app/api/spotify)](https://open.spotify.com/user/lvkeorj1fz3w8lolmb4x67279)
+
 ---
 
 - 👨‍💻 I'm an engineer with a hybrid background across **AI**, **automotive systems**, **software development**, and **digital product design**.
